@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+header img {
+    max-width: 200px;
+    border-radius: 50%;
+}
+
+.card {
+    margin-top: 20px;
+}
